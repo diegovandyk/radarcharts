@@ -1,0 +1,11 @@
+{
+  "visualization": {
+    "id": "radar_chart",
+    "label": "Radar Chart",
+    "description": "A custom radar chart for Looker Studio",
+    "supportDimensions": true,
+    "supportMetrics": true
+  },
+  "style": {},
+  "data": {}
+}
